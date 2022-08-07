@@ -94,3 +94,17 @@ $ npm start
 
 - Implement App
   - READ React documents!!
+
+## Deploy to Heroku
+
+- [create heroku app](https://dashboard.heroku.com/apps)
+- Deploy
+  - connect to Github
+- set deploy from subfolder
+  1. move to Settings
+  - [Automated heroku deploy from subfolder](https://stackoverflow.com/questions/39197334/automated-heroku-deploy-from-subfolder)
+  - Buildpacks
+    - add [subdir-heroku-buildpack](https://github.com/timanovsky/subdir-heroku-buildpack) to top
+    - add heroku/nodejs
+  - add Config Vars
+    - KEY: PROJECT_PATH, VALUE: Client
