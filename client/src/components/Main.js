@@ -22,7 +22,7 @@ const Main = () => {
    <div className="mainContainer">
        { /* Left */}
        <div className="cryptContainer">
-           <h1 className="title">Crypt Card</h1>
+           <h1 className="title">Send ETH Sample App</h1>
           
            <button type="button">
                <p className="buttonText" onClick={connectWallet}>Connect Wallet</p>
