@@ -110,4 +110,5 @@ $ npm start
     - KEY: PROJECT_PATH, VALUE: Client
 
 # Lisence
+- GPL v2
 - 商用利用不可♪
