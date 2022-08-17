@@ -108,3 +108,6 @@ $ npm start
     - add heroku/nodejs
   - add Config Vars
     - KEY: PROJECT_PATH, VALUE: Client
+
+# Lisence
+- 商用利用不可♪
