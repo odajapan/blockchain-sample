@@ -108,3 +108,9 @@ $ npm start
     - add heroku/nodejs
   - add Config Vars
     - KEY: PROJECT_PATH, VALUE: Client
+
+# note
+
+- [How to implement an ERC721 Token and connect it to OpenSea](https://www.youtube.com/watch?v=GAFh2Z5VtgM&t=0s)
+- [Moralis](https://ethereumnavi.com/2022/02/05/development-with-moralis-1/)
+  - [opensea plugin](https://moralis.io/plugins/opensea/)
