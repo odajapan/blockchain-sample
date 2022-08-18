@@ -114,3 +114,8 @@ $ npm start
 - [How to implement an ERC721 Token and connect it to OpenSea](https://www.youtube.com/watch?v=GAFh2Z5VtgM&t=0s)
 - [Moralis](https://ethereumnavi.com/2022/02/05/development-with-moralis-1/)
   - [opensea plugin](https://moralis.io/plugins/opensea/)
+
+# Lisence
+
+- GPL v2
+- 商用利用不可 ♪
